@@ -6,7 +6,8 @@
     "description": "Elimina la sección de noticias y comentarios en AnimeFLV.",
   
     "icons": {
-      "48": "icons/nokudasai_48.png"
+      "48": "icons/nokudasai_48.png",
+      "96": "icons/nokudasai_96.png"
     },
   
     "content_scripts": [
