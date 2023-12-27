@@ -16,3 +16,8 @@ var noticias = document.querySelector("div.CpCnC")
 if (noticias){
     noticias.remove();
 }
+
+var flvbanner = document.querySelector("div.AnflvTl")
+if (flvbanner){
+    flvbanner.remove();
+}

@@ -12,7 +12,7 @@
   
     "content_scripts": [
       {
-        "matches": ["*://*.animeflv.net/ver/*"],
+        "matches": ["*://*.animeflv.net/*"],
         "js": ["script.js"]
       }
     ]
