@@ -21,3 +21,8 @@ var flvbanner = document.querySelector("div.AnflvTl")
 if (flvbanner){
     flvbanner.remove();
 }
+
+var twitchbanner = document.querySelector("a.lvbx")
+if (twitchbanner){
+    twitchbanner.remove();
+}
